@@ -1,0 +1,16 @@
+c:\Users\tiagoa\Source\authentication-cache\GranaPreta\GranaPreta.Kernel\obj\Debug\netstandard2.0\GranaPreta.Kernel.csprojAssemblyReference.cache
+c:\Users\tiagoa\Source\authentication-cache\GranaPreta\GranaPreta.Kernel\obj\Debug\netstandard2.0\GranaPreta.Kernel.csproj.CoreCompileInputs.cache
+c:\Users\tiagoa\Source\authentication-cache\GranaPreta\GranaPreta.Kernel\obj\Debug\netstandard2.0\GranaPreta.Kernel.AssemblyInfoInputs.cache
+c:\Users\tiagoa\Source\authentication-cache\GranaPreta\GranaPreta.Kernel\obj\Debug\netstandard2.0\GranaPreta.Kernel.AssemblyInfo.cs
+c:\Users\tiagoa\Source\authentication-cache\GranaPreta\GranaPreta.Kernel\bin\Debug\netstandard2.0\GranaPreta.Kernel.deps.json
+c:\Users\tiagoa\Source\authentication-cache\GranaPreta\GranaPreta.Kernel\bin\Debug\netstandard2.0\GranaPreta.Kernel.dll
+c:\Users\tiagoa\Source\authentication-cache\GranaPreta\GranaPreta.Kernel\bin\Debug\netstandard2.0\GranaPreta.Kernel.pdb
+c:\Users\tiagoa\Source\authentication-cache\GranaPreta\GranaPreta.Kernel\bin\Debug\netstandard2.0\GranaPreta.Application.dll
+c:\Users\tiagoa\Source\authentication-cache\GranaPreta\GranaPreta.Kernel\bin\Debug\netstandard2.0\GranaPreta.Data.dll
+c:\Users\tiagoa\Source\authentication-cache\GranaPreta\GranaPreta.Kernel\bin\Debug\netstandard2.0\GranaPreta.Domain.dll
+c:\Users\tiagoa\Source\authentication-cache\GranaPreta\GranaPreta.Kernel\bin\Debug\netstandard2.0\GranaPreta.Data.pdb
+c:\Users\tiagoa\Source\authentication-cache\GranaPreta\GranaPreta.Kernel\bin\Debug\netstandard2.0\GranaPreta.Application.pdb
+c:\Users\tiagoa\Source\authentication-cache\GranaPreta\GranaPreta.Kernel\bin\Debug\netstandard2.0\GranaPreta.Domain.pdb
+c:\Users\tiagoa\Source\authentication-cache\GranaPreta\GranaPreta.Kernel\obj\Debug\netstandard2.0\GranaPreta.Kernel.csproj.CopyComplete
+c:\Users\tiagoa\Source\authentication-cache\GranaPreta\GranaPreta.Kernel\obj\Debug\netstandard2.0\GranaPreta.Kernel.dll
+c:\Users\tiagoa\Source\authentication-cache\GranaPreta\GranaPreta.Kernel\obj\Debug\netstandard2.0\GranaPreta.Kernel.pdb

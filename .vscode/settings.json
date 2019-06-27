@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/1e467c03-1c68-4f1f-8e17-0b7337fd3af1/resourceGroups/GranaPreta/providers/Microsoft.Web/sites/GranaPreta",
+    "appService.deploySubpath": ""
+}

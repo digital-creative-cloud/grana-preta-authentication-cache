@@ -1,0 +1,9 @@
+c:\Users\tiagoa\Source\authentication-cache\GranaPreta\GranaPreta.Domain\bin\Debug\netstandard2.0\GranaPreta.Domain.deps.json
+c:\Users\tiagoa\Source\authentication-cache\GranaPreta\GranaPreta.Domain\bin\Debug\netstandard2.0\GranaPreta.Domain.dll
+c:\Users\tiagoa\Source\authentication-cache\GranaPreta\GranaPreta.Domain\bin\Debug\netstandard2.0\GranaPreta.Domain.pdb
+c:\Users\tiagoa\Source\authentication-cache\GranaPreta\GranaPreta.Domain\obj\Debug\netstandard2.0\GranaPreta.Domain.csprojAssemblyReference.cache
+c:\Users\tiagoa\Source\authentication-cache\GranaPreta\GranaPreta.Domain\obj\Debug\netstandard2.0\GranaPreta.Domain.csproj.CoreCompileInputs.cache
+c:\Users\tiagoa\Source\authentication-cache\GranaPreta\GranaPreta.Domain\obj\Debug\netstandard2.0\GranaPreta.Domain.AssemblyInfoInputs.cache
+c:\Users\tiagoa\Source\authentication-cache\GranaPreta\GranaPreta.Domain\obj\Debug\netstandard2.0\GranaPreta.Domain.AssemblyInfo.cs
+c:\Users\tiagoa\Source\authentication-cache\GranaPreta\GranaPreta.Domain\obj\Debug\netstandard2.0\GranaPreta.Domain.dll
+c:\Users\tiagoa\Source\authentication-cache\GranaPreta\GranaPreta.Domain\obj\Debug\netstandard2.0\GranaPreta.Domain.pdb
